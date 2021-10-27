@@ -989,7 +989,7 @@ case 'command':
  stod = `${sender}`
  listMsg = {
  buttonText: 'LIST MENU',
- footerText: '*_© Dcode Denpa_*',
+ footerText: '*_© Aril Store_*',
  description: `Hai kak @${stod.split('@')[0]}, Silahkan pilih menu disini`,
  sections: [
                      {
@@ -3715,7 +3715,7 @@ Giliran = @${tty.player1.split('@')[0]}`
 
 /**
 * Thx To:
-* @Dilaa
+* @Aril Store
 * @Anker Production
 * @Yoga Ganez
 * [ @Ari - @Fajar Alfarizi - @Eka - @Nisa ]
