@@ -66,8 +66,8 @@ fetch(`http://ip-api.com/line`).then(res => res.text())
 
    denz.on('chat-update', async (mek) => {
         require('./denz.js')(denz, mek)
-        ownerNumber = ["6285866295942@s.whatsapp.net","6283125187277@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
-        dtod = "6285866295942@s.whatsapp.net"
+        ownerNumber = ["62881024358619@s.whatsapp.net","6283125187277@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
+        dtod = "62881024358619@s.whatsapp.net"
        otod = `${settings.NomorOwner}@s.whatsapp.net`
     })   
         
